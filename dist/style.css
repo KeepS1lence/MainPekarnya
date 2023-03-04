@@ -1,0 +1,14 @@
+h1{
+  text-align:center;
+  color:blue;
+}
+a{
+  margin:610px;  
+  margin-up:50px;
+  border:2px solid gray;
+  background-color:lightblue;
+  font-size:70px;
+}
+body{
+  background-image: url("https://bioshop.kz/files/uploads/GOTOVYE_RESHENIYA/bartkowscy-bakery-15.jpg");
+}
